@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/57669649/219815039-7833e8fe-ad5a-4911-bf11-74393a5cace4.png)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suviun)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
