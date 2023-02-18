@@ -17,8 +17,8 @@
 </h3>   
 
 <div dir="auto" align="left>             
-&nbsp; &nbsp; &nbsp; &nbsp;                       
-<a href="https://www.comptia.org/certifications/security" rel="nofollow"> 
+                   
+<a href="https://www.comptia.org/certifications/security/" rel="nofollow"> 
     <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python"></a>   
                                                                                     
 <a href="https://docs.python.org/3/" rel="nofollow"> 
