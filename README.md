@@ -28,10 +28,11 @@
 ⚡ Fun fact:I am currently learning Japanese
 </li>
 
-&nbsp
+<h4 dir="auto>
 <p dir="auto">
     <em>Work in progress..</em>
 </p>
+</h4>
 
 
 <h3 dir="auto">
