@@ -22,7 +22,7 @@
 </a>   
                        
 <a href="https://docs.python.org/3/" rel="nofollow"> 
-  <img src="https://camo.githubusercontent.com/ea5e2aeaddac1d19eb1381bd870e2b8727cd8ae9a6060954b0fdbcd7900e778e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f267374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d414439443930266c6162656c3d266d6573736167653d505954484f4e26636f6c6f723d414439443930"></a>   
+  <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python"></a>   
 </a>
 
 
