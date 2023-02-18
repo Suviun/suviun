@@ -23,6 +23,7 @@
 📫 My contact info is contact@suviun.com
 </li>
 </li>
+<li>
 ⚡ Fun fact:I am currently learning Japanese
 </li>
 
