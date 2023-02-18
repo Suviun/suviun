@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Comptia-Security%2B-blue)
 
 
-![](https://img.shields.io/badge/yellowgreen?style=flat&logo=python)
+![](https://img.shields.io/badge/<yellowgreen?style=flat&logo=python)
 
 
 <li>
