@@ -17,11 +17,12 @@
 </h3>   
 <div dir="auto" align="left>             
 <a href="https://www.comptia.org/certifications/security" rel="nofollow"> 
- <img src="https://img.shields.io/badge/Comptia-Security%2B-blue"></a>                          
+  <img src="https://img.shields.io/badge/Comptia-Security%2B-blue"></a>                          
          
 <a href="https://docs.python.org/3/" rel="nofollow"> 
   <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python"></a>   
 </a>
+</div>
 
 
 <li>
