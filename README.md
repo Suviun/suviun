@@ -18,7 +18,11 @@
  
 <li>
 🌱 I’m currently learning python and I am in a beginner college course and hope to be able to code some projects within this year!
+</li>
+<li>
 📫 My contact info is contact@suviun.com
+</li>
+</li>
 ⚡ Fun fact:I am currently learning Japanese
 </li>
 
