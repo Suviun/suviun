@@ -28,6 +28,7 @@
 ⚡ Fun fact:I am currently learning Japanese
 </li>
 
+
 <p dir="auto">
     <em>Work in progress..</em>
 </p>
