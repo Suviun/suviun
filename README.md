@@ -21,9 +21,9 @@
 📫 My contact info is contact@suviun.com
 ⚡ Fun fact:I am currently learning Japanese
 
-<h4 dir="auto">
-Work in progress
-</h4>
+<p dir="auto">
+    <em>Work in progress..</em>
+</p>
 <li>
  <a href="https://www.comptia.org/certifications/security">Security+</a>
  </li>
