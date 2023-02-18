@@ -1,12 +1,19 @@
 ![Banner](https://user-images.githubusercontent.com/57669649/219815039-7833e8fe-ad5a-4911-bf11-74393a5cace4.png)
-<img src="https://user-images.githubusercontent.com/57669649/219820218-9d3ca421-0bd6-4ed3-a5d6-a11a897a8051.png" width="100" height="100">
 
-<img src="https://user-images.githubusercontent.com/57669649/219820759-3cc8c7e0-c1d3-42c7-b988-749b207da2d1.png" width="100" height="100">
-
-<img src="https://user-images.githubusercontent.com/57669649/219820744-95ab768a-6fa8-449e-a76a-940833e87277.png" width="100" height="100">
-
-<img src="https://user-images.githubusercontent.com/57669649/219820754-05b8b9da-5111-44c7-bcd9-c52263947974.png" width="100" height="100">
-
+<div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/57669649/219820218-9d3ca421-0bd6-4ed3-a5d6-a11a897a8051.png" width="100" height="100">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/57669649/219820759-3cc8c7e0-c1d3-42c7-b988-749b207da2d1.png" width="100" height="100">
+  </div>    
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/57669649/219820744-95ab768a-6fa8-449e-a76a-940833e87277.png" width="100" height="100">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/57669649/219820754-05b8b9da-5111-44c7-bcd9-c52263947974.png" width="100" height="100">
+  </div>
+</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suviun&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
