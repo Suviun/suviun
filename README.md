@@ -1,4 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/57669649/219815039-7833e8fe-ad5a-4911-bf11-74393a5cace4.png)
+<h1 dir="auto">
+ Expanding my horizons and always striving for more!
+</h1>
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/57669649/219820744-95ab768a-6fa8-449e-a76a-940833e87277.png" width="100" height="100">
@@ -8,12 +11,12 @@
     <img src="https://user-images.githubusercontent.com/57669649/219820218-9d3ca421-0bd6-4ed3-a5d6-a11a897a8051.png" width="100" height="100">
 </p>
 
-<h1 dir="auto">
+<h3 dir="auto">
  Test
 </h1>
 
 
-<h1 dir="auto">
+<h3 dir="auto">
  Suviun's GitHub Stats
 </h1>
 
