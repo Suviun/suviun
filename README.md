@@ -15,7 +15,9 @@
 <h3 dir="auto">
  Languages and Certifications
 </h3>   
+
 <div dir="auto" align="left>             
+                       
 <a href="https://www.comptia.org/certifications/security" rel="nofollow"> 
   <img src="https://img.shields.io/badge/Comptia-Security%2B-blue"></a>                          
          
