@@ -16,10 +16,11 @@
  About me
 </h4>
  
-
+<li>
 🌱 I’m currently learning python and I am in a beginner college course and hope to be able to code some projects within this year!
 📫 My contact info is contact@suviun.com
 ⚡ Fun fact:I am currently learning Japanese
+</li>
 
 <p dir="auto">
     <em>Work in progress..</em>
