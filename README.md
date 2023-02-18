@@ -17,6 +17,7 @@
 </h1>
 
 ![](https://img.shields.io/badge/Comptia-Security%2B-blue)
+![](?style=flat&logo=appveyor)
 
 <li>
  <a href="https://www.comptia.org/certifications/security">Security+</a>
