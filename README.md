@@ -15,6 +15,7 @@
 <h3 dir="auto">
  Languages and Certifications
 </h1>
+![Security](https://img.shields.io/badge/Comptia-Security%2B-blue)
 <li>
  <a href="https://www.comptia.org/certifications/security">Security+</a>
  </li>
