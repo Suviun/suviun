@@ -12,6 +12,22 @@
  Expanding my horizons and always striving for more!
 </h1>
 
+<h4 dir="auto">
+ About me
+</h4>
+ 
+
+🌱 I’m currently learning python and I am in a beginner college course and hope to be able to code some projects within this year!
+📫 My contact info is contact@suviun.com
+⚡ Fun fact:I am currently learning Japanese
+
+<h4 dir="auto">
+Work in progress
+</h4>
+<li>
+ <a href="https://www.comptia.org/certifications/security">Security+</a>
+ </li>
+
 <h3 dir="auto">
  Languages and Certifications
 </h3>   
@@ -27,11 +43,6 @@
 
 
 
-<li>
- <a href="https://www.comptia.org/certifications/security">Security+</a>
- </li>
-
-
 <h3 dir="auto">
  Suviun's GitHub Stats
 </h1>
@@ -41,12 +52,3 @@
 
 
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
