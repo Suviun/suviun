@@ -36,7 +36,7 @@
 
 
 <h3 dir="auto">
- Languages and Certifications
+ My Coding Languages and Certifications
 </h3>   
 
 <a href="https://www.comptia.org/certifications/security/" rel="nofollow"> 
