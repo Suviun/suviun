@@ -14,10 +14,9 @@
 
 <h3 dir="auto">
  Languages and Certifications
-</h1>
-
+</h3>   
+<div dir="auto" align="left>
 ![](https://img.shields.io/badge/Comptia-Security%2B-blue)
-
 
 <a href="https://docs.python.org/3/" rel="nofollow"> 
   <img src="https://camo.githubusercontent.com/ea5e2aeaddac1d19eb1381bd870e2b8727cd8ae9a6060954b0fdbcd7900e778e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f267374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d414439443930266c6162656c3d266d6573736167653d505954484f4e26636f6c6f723d414439443930" data-canonical-src="https://img.shields.io/static/v1?&amp;style=flat&amp;logo=python&amp;logoColor=white&amp;labelColor=AD9D90&amp;label=&amp;message=PYTHON&amp;color=AD9D90" style="max-width: 100%;"></a>    
