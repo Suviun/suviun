@@ -12,8 +12,11 @@
 </p>
 
 <h3 dir="auto">
- Test
+ Languages and Certifications
 </h1>
+<li>
+ <a href="https://www.comptia.org/certifications/security">Security+</a>
+ </li>
 
 
 <h3 dir="auto">
