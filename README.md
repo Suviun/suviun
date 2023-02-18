@@ -1,7 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/57669649/219815039-7833e8fe-ad5a-4911-bf11-74393a5cace4.png)
 
 <p align="center">
-    <a href="https://www.comptia.org/certifications/security">Security+</a>
+    <a href="https://www.comptia.org/certifications/security"></a>
     <img src="https://user-images.githubusercontent.com/57669649/219820744-95ab768a-6fa8-449e-a76a-940833e87277.png" width="65" height="65">
 &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="https://user-images.githubusercontent.com/57669649/219820759-3cc8c7e0-c1d3-42c7-b988-749b207da2d1.png" width="65" height="65">
