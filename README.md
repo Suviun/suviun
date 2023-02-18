@@ -18,7 +18,7 @@
 <div dir="auto" align="left>             
                        
 <a href="https://www.comptia.org/certifications/security" rel="nofollow">
-  <img src="https://img.shields.io/badge/Comptia-Security%2B-blue" data-canonical-src="https://img.shields.io/static/v1?&amp;style=flat&amp;logo=python&amp;logoColor=white&amp;labelColor=AD9D90&amp;label=&amp;message=PYTHON&amp;color=AD9D90" style="max-width: 100%;"></a>
+  <img src="https://img.shields.io/badge/Comptia-Security%2B-blue"></a>
 </a>   
                        
 <a href="https://docs.python.org/3/" rel="nofollow"> 
